@@ -70,8 +70,14 @@ PMs são a interface de organização entre clientes e a equipe de desenvolvimen
 9) Explique os objetivos de um protótipo no contexto de “engenharia de software de produto”. Ele precisa ser um executável? Em que casos. 
 O protótipo de produto tem como objetivo a testagem das ideias e o convencimento dos envolviod que o produto pensado tem potencial. Um protótipo não necessariamente precisa ser um executável,podendo ser também uma interface gráfica que represente a ideia de uma maneira visual, caso seja esta o diferencial do produto.
 
-===================   Padrões de Projeto    ==================
+===================  Capítulo 1 - Sommervile    ==================
+Exercises: 
+1.1) Briefly describe the fundamental differences bet
+ween project-based and product-based software engineering.
+Project based software engineering focuses on a particular problem that a client may have. That way, it produces a solution based on that specific problem, designed only for that client's issues. In that process the requirementes are defined by the client.
+In product-based software engineering there is no specific client. The products are made considering an identified opportunity on the market based on a generic solution for the problem that tackles multiple customers' issues. In this way the same company is responsible for deciding the requirements and features' implementation.
+
+1.2) What are three important differences between software products and software products lines.
 
 
 
- - 
